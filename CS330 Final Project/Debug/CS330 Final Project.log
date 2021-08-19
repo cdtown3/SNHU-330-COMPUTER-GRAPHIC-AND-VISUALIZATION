@@ -1,0 +1,36 @@
+﻿  Application.cpp
+C:\Users\Drew\source\repos\CS330 Final Project\CS330 Final Project\Application.cpp(392,22): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Drew\source\repos\CS330 Final Project\CS330 Final Project\Application.cpp(398,23): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Drew\source\repos\CS330 Final Project\CS330 Final Project\Application.cpp(449,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Drew\source\repos\CS330 Final Project\CS330 Final Project\Application.cpp(450,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Drew\source\repos\CS330 Final Project\CS330 Final Project\Application.cpp(472,27): warning C4244: 'initializing': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Users\Drew\source\repos\CS330 Final Project\CS330 Final Project\Application.cpp(473,25): warning C4244: 'initializing': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Users\Drew\source\repos\CS330 Final Project\CS330 Final Project\Application.cpp(474,28): warning C4244: 'initializing': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Users\Drew\source\repos\CS330 Final Project\CS330 Final Project\Application.cpp(480,28): warning C4244: 'initializing': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Users\Drew\source\repos\CS330 Final Project\CS330 Final Project\Application.cpp(481,26): warning C4244: 'initializing': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Users\Drew\source\repos\CS330 Final Project\CS330 Final Project\Application.cpp(482,29): warning C4244: 'initializing': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Users\Drew\source\repos\CS330 Final Project\CS330 Final Project\Application.cpp(492,14): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\Drew\source\repos\CS330 Final Project\CS330 Final Project\Application.cpp(493,14): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\Drew\source\repos\CS330 Final Project\CS330 Final Project\Application.cpp(494,14): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\Drew\source\repos\CS330 Final Project\CS330 Final Project\Application.cpp(500,14): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\Drew\source\repos\CS330 Final Project\CS330 Final Project\Application.cpp(501,14): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\Drew\source\repos\CS330 Final Project\CS330 Final Project\Application.cpp(502,14): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\Drew\source\repos\CS330 Final Project\CS330 Final Project\Application.cpp(586,41): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Users\Drew\source\repos\CS330 Final Project\CS330 Final Project\Application.cpp(587,39): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Users\Drew\source\repos\CS330 Final Project\CS330 Final Project\Application.cpp(588,42): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Users\Drew\source\repos\CS330 Final Project\CS330 Final Project\Application.cpp(597,42): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Users\Drew\source\repos\CS330 Final Project\CS330 Final Project\Application.cpp(598,40): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Users\Drew\source\repos\CS330 Final Project\CS330 Final Project\Application.cpp(599,43): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Users\Drew\source\repos\CS330 Final Project\CS330 Final Project\Application.cpp(609,14): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\Drew\source\repos\CS330 Final Project\CS330 Final Project\Application.cpp(610,14): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\Drew\source\repos\CS330 Final Project\CS330 Final Project\Application.cpp(611,14): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\Drew\source\repos\CS330 Final Project\CS330 Final Project\Application.cpp(617,14): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\Drew\source\repos\CS330 Final Project\CS330 Final Project\Application.cpp(618,14): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\Drew\source\repos\CS330 Final Project\CS330 Final Project\Application.cpp(619,14): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\Drew\source\repos\CS330 Final Project\CS330 Final Project\Application.cpp(997,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Drew\source\repos\CS330 Final Project\CS330 Final Project\Application.cpp(998,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Drew\source\repos\CS330 Final Project\CS330 Final Project\Application.cpp(1002,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Drew\source\repos\CS330 Final Project\CS330 Final Project\Application.cpp(1003,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Drew\source\repos\CS330 Final Project\CS330 Final Project\Application.cpp(1004,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Drew\source\repos\CS330 Final Project\CS330 Final Project\Application.cpp(1005,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  CS330 Final Project.vcxproj -> C:\Users\Drew\source\repos\CS330 Final Project\Debug\CS330 Final Project.exe
