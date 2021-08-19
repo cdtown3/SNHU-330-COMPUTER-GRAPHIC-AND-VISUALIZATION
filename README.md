@@ -1,6 +1,6 @@
 # SNHU-330-Computer-Graphic-and-Visualization
-Author: Drew Townsend
-Date:   08/18/21
+# Author: Drew Townsend
+# Date:   08/18/21
 # How do I approach designing software?
 I now have a much better idea of 3D concepts, which will certainly help me in the future of my development. I've cemented my knowledge of working with matrices and vertices in development. With this course I really emphasized reusability with my code. I believe when defining my verts, I could've automated the definition of vertices, normals, etc... However I was able to easily create a movable camera, lighting, and objects due to the objects not being dependent on hard-coded values.  
 
